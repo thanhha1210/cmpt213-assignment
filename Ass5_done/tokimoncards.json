@@ -1,0 +1,1 @@
+{"allPokemons":[{"id":1,"name":"Pikamon","type":"Electric","image":"http://localhost:8080/img/pikachu.png","rarity":2,"hp":123},{"id":3,"name":"Drakum","type":"Dark","image":"http://localhost:8080/img/pokemon_ball.png","rarity":8,"hp":223}]}

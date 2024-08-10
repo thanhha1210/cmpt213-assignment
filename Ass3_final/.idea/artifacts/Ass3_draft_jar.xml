@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Ass3_draft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ass3_draft_jar</output-path>
+    <root id="archive" name="Ass3_draft.jar">
+      <element id="module-output" name="Ass3_draft" />
+    </root>
+  </artifact>
+</component>

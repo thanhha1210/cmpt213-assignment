@@ -1,0 +1,1 @@
+{"allPokemons":[{"id":1,"name":"Pikachu","type":"Electric","image":"http://localhost:8080/img/pikachu.png","rarity":8,"hp":120},{"id":2,"name":"Pikachu2","type":"Electric","image":"http://localhost:8080/img/pikachu.png","rarity":8,"hp":120},{"id":4,"name":"Charmander","type":"Fire","image":"http://localhost:8080/img/pikachu.png","rarity":6,"hp":100}]}
